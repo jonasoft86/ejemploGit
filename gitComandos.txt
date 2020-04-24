@@ -1,0 +1,8 @@
+//git status al detalle
+git status -s
+
+//Ver todos los commits
+git log --online
+
+//Devolver un cambio
+git reset --hard identificador_del_commit
